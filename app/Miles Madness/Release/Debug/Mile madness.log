@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Johansen\source\repos\Mile madness\Mile madness\Header.h(35,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Johansen\source\repos\Mile madness\Mile madness\Header.h(152,40): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Johansen\source\repos\Mile madness\Mile madness\Header.h(285,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Johansen\source\repos\Mile madness\Mile madness\Header.h(332,37): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Johansen\source\repos\Mile madness\Mile madness\Header.h(333,37): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Johansen\source\repos\Mile madness\Mile madness\Header.h(334,37): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Johansen\source\repos\Mile madness\Mile madness\Header.h(494,43): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Johansen\source\repos\Mile madness\Mile madness\main.cpp(10,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Johansen\source\repos\Mile madness\Mile madness\main.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Mile madness.vcxproj -> C:\Users\Johansen\source\repos\Mile madness\Debug\Mile madness.exe

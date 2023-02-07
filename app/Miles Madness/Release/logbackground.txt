@@ -1,0 +1,8 @@
+frame_0_delay-0.14s.gif
+frame_1_delay-0.14s.gif
+frame_2_delay-0.14s.gif
+frame_3_delay-0.14s.gif
+frame_4_delay-0.14s.gif
+frame_5_delay-0.14s.gif
+frame_6_delay-0.14s.gif
+frame_7_delay-0.14s.gif
